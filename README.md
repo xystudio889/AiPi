@@ -1,2 +1,2 @@
 # AiPi
-Use the API to chat the AI.
+Use the API to chat AI.
