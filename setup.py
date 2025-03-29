@@ -10,7 +10,7 @@ with open("README.md",encoding="utf-8") as f:
 
 setup(
     name = "AI-APIChat",
-    version = "0.0.1",
+    version = "0.0.2",
     packages = find_packages(),
     install_requires = ["openai >=0.10.0"],
     python_requires = ">=3.6",
@@ -19,7 +19,7 @@ setup(
     description = "A simple python based language.It can be embedded in python projects",
     long_description = long_description,
     license = "MIT",
-    url = "https://github.com/xystudio889/linecode",
+    url = "https://github.com/xystudio889/AiPi",
     data_files = data_files,
     include_package_data = True
 )
